@@ -7,8 +7,8 @@ PropertyFinder is a Next.js-based real estate platform that allows users to brow
 
 ## 📋 Table of Contents
 - [Setup](#setup)
-- [Features](#features)
-- [Technologies](#technologies)
+- [Features](#additional-notes)
+- [Technologies](#additional-notes)
 - [License](#license)
 
 ## 🚀 Setup
@@ -37,7 +37,7 @@ npm run dev
 ```
 Open http://localhost:3000 in your browser to view the app.  
 
-4. Key Features and Technologies:
+## Key Features and Technologies:
 
 * Authentication: Implemented using Clerk for secure user management.
 * UI Components: Utilized shadcn for creating the mobile hamburger menu and other UI elements. 
